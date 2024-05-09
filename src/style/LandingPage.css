@@ -1,0 +1,12 @@
+.LandingPage{
+    width: 1580px;
+    margin: 0 auto;
+    background-color: #F4F6FA
+}
+.NavBar{
+    height: 5vh;
+    margin-top: 0px;
+}
+.Content{
+    margin-bottom: 100px;
+}
